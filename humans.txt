@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	JH  PO	JH.twitter
     <name> -- <role> -- <twitter>
 
 # THANKS
