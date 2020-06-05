@@ -7,6 +7,7 @@
 
 # THANKS
     Thanks for all my students!
+    Some more thanks to do pull vs pull rebase comparison.
     <name>
 
 # TECHNOLOGY COLOPHON
